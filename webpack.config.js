@@ -42,6 +42,5 @@ export const webpackConfig = {
 		// contentBase: path.join(__dirname, "/dist"),
 		hot: true
 	},
-	
 
-}
+};
